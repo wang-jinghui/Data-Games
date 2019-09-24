@@ -7,8 +7,7 @@ https://dianshi.baidu.com/competition/30/rank
 
  - 机器要学习：me
  - Stone : https://github.com/stormstone
- - 买书淘书
- - sky未完_待续
+ - .......
     
 ---------------------------------------------
 ### 系统环境
